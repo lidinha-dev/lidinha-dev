@@ -8,7 +8,7 @@
 - 📘 **Disciplinas que Leciono:** Engenharia Web, Lógica com JS/TS, Gestão de TI e Computação Aplicada.
 - 📚 **Evolução Contínua:** Certificações ativas e aprendizado constante focado em práticas robustas de engenharia de software.
 
-## 💻 Stack Tecnológica & Framework de Ensino
+## 💻 Stack Tecnológica & Framework
 
 - Linguagens: **JavaScript (ES6+), TypeScript**
 - Frontend: **React.js, Next.js**
