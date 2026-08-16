@@ -1,14 +1,11 @@
 ## 👋 Olá, eu sou a Lidinha
 
-**Professora de Gestão de Tecnologia & Engenheira Full Stack JavaScript**
+**Aluna de Full Stack JavaScript**
 
-"Graduada em Análise e Desenvolvimento de Sistemas (ADS) e especialista no ecossistema JavaScript/TypeScript. Eu conecto a engenharia de software do mundo real com a educação tecnológica — transformando arquiteturas de sistemas complexas em códigos limpos, escaláveis e de fácil manutenção."
+## 🧑‍🏫 Cursos e Aperfeiçoamento
 
-## 🧑‍🏫 Liderança Tecnológica & Histórico Acadêmico
-
-- 🚀 **Foco:** Treinamento e mentoria de Desenvolvedores Full Stack (ambientes de produção Front-end e Back-end).
+- 🚀 **Foco:** Desenvolvedor Aplicação Full Stack (ambientes de produção Front-end e Back-end).
 - 📘 **Disciplinas que Leciono:** Engenharia Web, Lógica com JS/TS, Gestão de TI e Computação Aplicada.
-- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas (ADS).
 - 📚 **Evolução Contínua:** Certificações ativas e aprendizado constante focado em práticas robustas de engenharia de software.
 
 ## 💻 Stack Tecnológica & Framework de Ensino
@@ -30,16 +27,3 @@
 ---
 
 ### 🚀 Projetos Full Stack & Exemplos de Código
-
-* 🔗 **Tarefas**: Demonstração ao vivo: [Tarefas](https://tarefas.leogomesdev.com)
-* 🔗 **Pneuma**: Demonstração ao vivo: [Pneuma](https://pneuma.leogomesdev.com)
-* 🔗 **Combustível**: Demonstração ao vivo: [Calculadora de Combustível](https://combustivel.leogomesdev.com)
-* 🔗 **Criptomoedas**: Demonstração ao vivo: [Cripto App](https://criptomoedas.leogomesdev.com)
-* 🔗 **Fluxo**: Demonstração ao vivo: [Fluxo](https://fluxo.leogomesdev.com)
-* 🔗 **Prime**: Demonstração ao vivo: [Prime](https://prime.leogomesdev.com)
-* 🔗 **Portfólio**: [Leo Gomes Dev](https://leogomesdev.com)
-
----
-
-<!-- ### 👁️ Visitas no perfil -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge) -->
