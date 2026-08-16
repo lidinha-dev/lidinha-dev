@@ -5,8 +5,8 @@
 ## 🧑‍🏫 Cursos e Aperfeiçoamento
 
 - 🚀 **Foco:** Desenvolvedor Aplicação Full Stack (ambientes de produção Front-end e Back-end).
-- 📘 **Disciplinas que Leciono:** Engenharia Web, Lógica com JS/TS, Gestão de TI e Computação Aplicada.
-- 📚 **Evolução Contínua:** Certificações ativas e aprendizado constante focado em práticas robustas de engenharia de software.
+- 📘 **Disciplinas:** Engenharia Web, Lógica com JS/TS, Gestão de TI e Computação Aplicada.
+- 📚 **Evolução Contínua:** Certificações ativas e aprendizado constante focado em práticas robustas
 
 ## 💻 Stack Tecnológica & Framework
 
